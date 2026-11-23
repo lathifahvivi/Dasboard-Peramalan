@@ -1,7 +1,0 @@
-﻿No,Kesimpulan
-1,"Pada evaluasi utama, model terbaik secara keseluruhan adalah TimesFM 2.5 + eksogen (MASE 0,47; MAPE 2,93%)."
-2,"Model fondasi terbaik adalah TimesFM 2.5 + eksogen (MASE 0,47), lebih akurat daripada metode non-fondasi terbaik, MSTL (MASE 0,62)."
-3,"Eksogen pada TimeGPT: MAPE turun 0,08 poin persentase."
-4,"Eksogen pada Chronos-2: MAPE turun 0,71 poin persentase."
-5,"Eksogen pada TimesFM 2.5: MAPE turun 12,04 poin persentase."
-6,"Rata-rata pada 4 minggu uji, model terbaik adalah Ensemble (MSTL + TimesFM 2.5 + eksogen) (MASE rata-rata 0,48)."
